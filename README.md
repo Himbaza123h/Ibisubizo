@@ -1,3 +1,3 @@
 # Ibisubizo
 Ibisubizo project, developed under Afrinnovators
-#https://afrinnovators.com/
+https://afrinnovators.com
